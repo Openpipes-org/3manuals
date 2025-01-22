@@ -6,4 +6,4 @@
 
 CAD files of 3 manuals console
 
-⚠️ Under construction
+Download the latest CAD files in the releases section.
